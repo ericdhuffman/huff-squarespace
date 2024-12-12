@@ -1,2 +1,2 @@
-# huffonera-squarespace
+# huff-squarespace
 Squarespace template for Huffonera work
